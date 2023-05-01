@@ -1,0 +1,48 @@
+[
+    {
+      "src": "img/1.png",
+      "alt": "Picture 1",
+      "caption": "Random Pictures 1"
+    },
+    {
+        "src": "img/2.png",
+        "alt": "Picture 2",
+        "caption": "Random Pictures 2"
+    },
+    {
+        "src": "img/3.png",
+        "alt": "Picture 3",
+        "caption": "Random Pictures 3"
+    },
+    {
+        "src": "img/4.png",
+        "alt": "RPicture 4",
+        "caption": "Random Pictures 4"
+    },
+    {
+        "src": "img/5.png",
+        "alt": "Picture 5",
+        "caption": "Random Pictures 5"
+      },
+      {
+          "src": "img/6.png",
+          "alt": "Picture 6",
+          "caption": "Random Pictures 6"
+      },
+      {
+          "src": "img/7.png",
+          "alt": "Picture 7",
+          "caption": "Random Pictures 7"
+      },
+      {
+          "src": "img/8.png",
+          "alt": "Picture 8",
+          "caption": "Random Pictures 8"
+      },
+      {
+        "src": "img/9.png",
+        "alt": "Picture 9",
+        "caption": "Random Pictures 9"
+    }     
+  ]
+  
