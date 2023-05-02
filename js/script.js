@@ -32,7 +32,7 @@ gallery.addEventListener('click', function(e) {
     var src = e.target.getAttribute('data-src');
     modalImage.src = src;
     modalImage.style.marginLeft = "auto";
-    modalImage.style.marginTop = "20px";
+    modalImage.style.marginTop = "20px"; 
     modalImage.style.display = "bock";
     modalImage.style.width = "60%";
     modal.style.display = 'block';
